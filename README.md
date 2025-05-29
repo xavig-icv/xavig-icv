@@ -66,8 +66,9 @@
 ![Responder](https://img.shields.io/badge/Responder-008080?style=for-the-badge&logo=windows&logoColor=white)
 ![Impacket](https://img.shields.io/badge/Impacket-008080?style=for-the-badge&logo=python&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+
 **Pentesting i CTFs**  
-- Resolució de desafiaments i proves d’intrusió: *HackTheBox*
+- Resolució de desafiaments i proves d’intrusió: *TryHackMe*
 
 **Eines de pentesting i explotació**  
 - Frameworks i utilitats: *Metasploit, Burp Suite*  
