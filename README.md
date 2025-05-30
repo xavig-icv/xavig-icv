@@ -1,14 +1,16 @@
 # Sóc el Xavi Garcia 😊
 
-🏫 Docent a l'Institut Carles Vallbona, especialitzat en desenvolupament web, ciberseguretat i administració de sistemes.
+🏫 Docent, especialitzat en desenvolupament web, ciberseguretat i administració de sistemes.
 
 🎓 Imparteixo els mòudls als cicles de:
 
 🔹 **SMX** (Mòdul d'Aplicacions Web)  
-🔹 **ASIX** (Mòdul de Llenguatge de Marques i Administració Avançada de Sistemes Operatius)  
+🔹 **ASIX** (Mòdul de Llenguatge de Marques i Administració de Sistemes Operatius)  
 🔹 **CETI** (Ciberseguretat --> Mòdul de Posada en Producció Segura)
 
-💻 Apassionat pel desenvolupament web, la ciberseguretat i l'administració de sistemes (Windows, Linux i serveis de xarxa). M'agrada crear entorns de pràctiques amb **Docker**, **Proxmox** i sistemes virtualitzats.
+🌐 Apassionat pel desenvolupament web, intento que els alumnes treballin des del principi de curs amb **Git** i **Github**
+
+💻 M'encanta l'administració de sistemes (Windows, Linux) i la majoria de serveis en xarxa. M'agrada crear entorns de pràctiques amb **Docker** i **Proxmox**.
 
 🔐 En l'àmbit de la ciberseguretat, m'interessa especialment les **Auditories de Seguretat d'entorns Windows amb Directori Actiu** i la resolució de **CTFs** de Red Team en **Linux i Windows**.
 
