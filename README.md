@@ -116,4 +116,4 @@
 
 ---
 
-⚡ Fun fact: Cada cop que t’afrontes a un problema, es fa una mica més fàcil i estàs més a prop de resoldre'l; però si mai ho intentes, mai no ho aconseguiràs.
+⚡ Fun fact: Cada cop que t’afrontes a un problema, es fa una mica més fàcil i estàs més a prop de resoldre'l; però si no ho intentes, mai ho aconseguiràs.
