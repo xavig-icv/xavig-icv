@@ -2,7 +2,7 @@
 
 🏫 Docent, especialitzat en desenvolupament web, ciberseguretat i administració de sistemes.
 
-🎓 Imparteixo els mòudls als cicles de:
+🎓 Imparteixo els mòduls als cicles de:
 
 🔹 **SMX** (Mòdul d'Aplicacions Web)  
 🔹 **ASIX** (Mòdul de Llenguatge de Marques i Administració de Sistemes Operatius)  
@@ -50,7 +50,7 @@
 ![Mikrotik](https://img.shields.io/badge/MikroTik-ED1C24?style=for-the-badge&logo=mikrotik&logoColor=white)
 - Sistemes operatius de servidor: **Windows Server (des de 2016), Ubuntu Server, Debian**
 - Plataformes de virtualització i gestió de màquines virtuals: **Proxmox, VirtualBox**
-- Contenidorització i orquestració lleugera: **Docker, Docker Compose**
+- Creació de contenidors i orquestració lleugera: **Docker, Docker Compose**
 - Configuració i gestió de serveis: **SSH, DNS, DHCP, WEB (Apache, Nginx, IIS), Correu, Bases de dades (MySQL), Proxy, VPN (OpenVPN, Wireguard), pfSense, Mikrotik, IPTables**
 
 ### 🔐 Ciberseguretat  
@@ -75,7 +75,7 @@
 **Eines de pentesting i explotació**  
 - Frameworks i utilitats: *Metasploit, Burp Suite*  
 - Escaneig de vulnerabilitats web: *OWASP ZAP*  
-- Exploits i eines Windows: *Impacket (i sub-eines), Responder*  
+- Exploits i eines Windows: *Impacket (i subeines), Responder*  
 - Injecció SQL: *sqlmap* i procés d'injecció manual.
 
 **Anàlisi de xarxes i captura de tràfic**  
