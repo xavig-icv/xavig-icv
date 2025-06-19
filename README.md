@@ -28,7 +28,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-012456?style=for-the-badge&logo=powershell&logoColor=white)
 - Llenguatges i tecnologies per a desenvolupament frontend i backend: **HTML, CSS, JavaScript, PHP (sense frameworks)**
-- Llenguatges de programació generalistes: **Python, Java**
+- Llenguatges de programació de propòsit general: **Python, Java**
 - Scripts per a automatització i administració de sistemes: **Bash, PowerShell**
 - Frameworks Python per a desenvolupament web: **Django, Flask (bàsic)**
 - Connexió i integració de sistemes ERP i e-commerce: **APIs i integracions amb Magento, Dynamics Navision, Odoo**
@@ -71,27 +71,23 @@
 
 **Pentesting i CTFs**  
 - Resolució de desafiaments i proves d’intrusió: *TryHackMe*
+- Interessat en plataformes de Bug Bounty: *Hackerone* i *Intigrity*
+- Hacking Web: *Vulnerabilitats de OWASP TOP 10*
 
 **Eines de pentesting i explotació**  
 - Frameworks i utilitats: *Metasploit, Burp Suite*  
-- Escaneig de vulnerabilitats web: *OWASP ZAP*  
-- Exploits i eines Windows: *Impacket (i subeines), Responder*  
+- Exploits i eines Windows: *Impacket (i subeines)*  
 - Injecció SQL: *sqlmap* i procés d'injecció manual.
 
 **Anàlisi de xarxes i captura de tràfic**  
-- Monitoratge i anàlisi de paquets (nivell bàsic): *Wireshark*  
 - Escaneig de ports i serveis: *Nmap*  
-- Detecció d’intrusions: *Snort (IDS/IPS)*
+- Detecció d’intrusos: *Snort (IDS/IPS)*
 
 **Cracking i auditoria de contrasenyes**  
-- Cracking de hashes i contrasenyes: *John the Ripper*  
-- Atacs a xarxes WiFi: *Aircrack-ng*
+- Cracking de hashes i contrasenyes: *John the Ripper* i *Hashcat* 
 
 **Sistemes operatius per a pentesting**  
 - Distribució especialitzada: *Kali Linux*
-
-**Seguretat addicional**  
-- Autenticació multifactor: *2FA amb Google Authenticator*
 
 ### ☁️ Cloud i DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -109,7 +105,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 - Entorn de desenvolupament principal: **VS Code**
 - Gestió de projectes: **Trello**
-- Interessat a aprendre gestió d’incidències i projectes: **Jira**
+- Interessat en aprendre gestió d’incidències i projectes: **Jira**
 
 ### 🤖 Robòtica i Hardware  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -118,4 +114,4 @@
 
 ---
 
-⚡ Fun fact: Cada cop que t’afrontes a un problema, es fa una mica més fàcil i estàs més a prop de resoldre'l; però si no ho intentes, mai ho aconseguiràs.
+⚡ Fun fact: Cada cop que t’enfrontes a un problema, es fa una mica més fàcil i estàs més a prop de resoldre'l; però si no ho intentes, mai ho aconseguiràs.
