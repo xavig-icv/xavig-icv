@@ -1,24 +1,24 @@
 # Sóc el Xavi Garcia 😊
 
-🏫 Docent, especialitzat en desenvolupament web, ciberseguretat i administració de sistemes.
+Docent, especialitzat en desenvolupament web, ciberseguretat i administració de sistemes.
 
-🎓 Imparteixo els mòduls als cicles de:
+Imparteixo els mòduls als cicles de:
 
 🔹 **SMX** (Mòdul d'Aplicacions Web)  
 🔹 **ASIX** (Mòdul de Llenguatge de Marques i Administració de Sistemes Operatius)  
 🔹 **CETI** (Ciberseguretat --> Mòdul de Posada en Producció Segura)
 
-🌐 Apassionat pel desenvolupament web, intento que els alumnes treballin des del principi de curs amb **Git** i **Github**
+Apassionat pel desenvolupament web, intento que els alumnes treballin des del principi de curs amb **Git** i **Github**
 
-💻 M'encanta l'administració de sistemes (Windows, Linux) i la majoria de serveis en xarxa. M'agrada crear entorns de pràctiques amb **Docker** i **Proxmox**.
+M'encanta l'administració de sistemes (Windows, Linux) i la majoria de serveis en xarxa. M'agrada crear entorns de pràctiques amb **Docker** i **Proxmox**.
 
-🔐 En l'àmbit de la ciberseguretat, m'interessa especialment les **Auditories de Seguretat d'entorns Windows amb Directori Actiu** i la resolució de **CTFs** de Red Team en **Linux i Windows**.
+En l'àmbit de la ciberseguretat, m'interessa especialment les **Auditories de Seguretat d'entorns Windows amb Directori Actiu** i la resolució de **CTFs** de Red Team en **Linux i Windows**.
 
 ---
 
-## 🛠️ Tecnologies i habilitats
+## Tecnologies i habilitats
 
-### 🌐 Desenvolupament Web i Programació
+### Desenvolupament Web i Programació
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,7 +33,7 @@
 - Frameworks Python per a desenvolupament web: **Django, Flask (bàsic)**
 - Connexió i integració de sistemes ERP i e-commerce: **APIs i integracions amb Magento, Dynamics Navision, Odoo**
 
-### 🖥️ Administració de Sistemes i Servidors  
+### Administració de Sistemes i Servidors  
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windowsserver&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -53,7 +53,7 @@
 - Creació de contenidors i orquestració lleugera: **Docker, Docker Compose**
 - Configuració i gestió de serveis: **SSH, DNS, DHCP, WEB (Apache, Nginx, IIS), Correu, Bases de dades (MySQL), Proxy, VPN (OpenVPN, Wireguard), pfSense, Mikrotik, IPTables**
 
-### 🔐 Ciberseguretat  
+### Ciberseguretat  
 ![Metasploit](https://img.shields.io/badge/Metasploit-CE3534?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-CE3434?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0581C4?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -89,7 +89,7 @@
 **Sistemes operatius per a pentesting**  
 - Distribució especialitzada: *Kali Linux*
 
-### ☁️ Cloud i DevOps  
+### Cloud i DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
@@ -100,18 +100,16 @@
 - Desplegament i gestió de serveis empresarials al núvol: **Microsoft Office 365 i migracions d'Exchange**
 - Interessat en DevOps per a CI/CD i automatització: **Jenkins, GitHub Actions, Ansible**
 
-### 🛠️ Eines i entorns  
+### Eines i entorns  
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 - Entorn de desenvolupament principal: **VS Code**
 - Gestió de projectes: **Trello**
 - Interessat en aprendre gestió d’incidències i projectes: **Jira**
 
-### 🤖 Robòtica i Hardware  
+### Robòtica i Hardware  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 - Projectes de robòtica i IoT: **Arduino, Raspberry Pi**
-
----
 
 ⚡ Fun fact: Cada cop que t’enfrontes a un problema, es fa una mica més fàcil i estàs més a prop de resoldre'l; però si no ho intentes, mai ho aconseguiràs.
