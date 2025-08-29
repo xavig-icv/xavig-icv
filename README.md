@@ -33,7 +33,7 @@ En l'àmbit de la ciberseguretat, m'interessa especialment les **Auditories de S
 - Frameworks Python per a desenvolupament web: **Django, Flask (bàsic)**
 - Connexió i integració de sistemes ERP i e-commerce: **APIs i integracions amb Magento, Dynamics Navision, Odoo**
 
-### Administració de Sistemes i Servidors  
+### Administració de Sistemes  
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windowsserver&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -70,7 +70,7 @@ En l'àmbit de la ciberseguretat, m'interessa especialment les **Auditories de S
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Pentesting i CTFs**  
-- Resolució de desafiaments i proves d’intrusió: *TryHackMe*
+- Resolució de reptes i proves d’intrusió: *TryHackMe*
 - Interessat en plataformes de Bug Bounty: *Hackerone* i *Intigrity*
 - Hacking Web: *Vulnerabilitats de OWASP TOP 10*
 
